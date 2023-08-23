@@ -23,3 +23,7 @@ Before uploading the program, it's recommended to clear the EEPROM (EEPROM CLEAR
 -------
 
 The program requires the installation of additional libraries (the DMX library is included).
+
+-------
+
+Due to a more complex codebase, this version doesn't perform as quickly and smoothly as the basic ArtGateOne version.
